@@ -95,7 +95,7 @@ This will start a development server with hot-reloading.
 
 ## 🤝 Contributing
 
-PRs and issues are welcome on [GitHub](https://alibroid/alibroid/bun-express-ts).
+PRs and issues are welcome on [GitHub](https://github.com/alibad98/create-express-ts).
 
 ---
 
